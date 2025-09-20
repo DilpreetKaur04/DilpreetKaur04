@@ -1,5 +1,7 @@
 ## Hello! I'm Dilpreet Kaur 
-Software Tester with over 15 years of extensive expertise in Manual, UAT, and Automation Testing of web applications, QA processes, and defect life management. I adapt quickly to project needs, learning new tools and technologies on the job. I can acquire new skills within short time scales, adapt to rapidly changing work practices, while building and maintaining excellent working relationships with colleagues and Stakeholders. Skilled in both Agile and Waterfall methodologies, I have proven experience in team leadership and stakeholder communication. I am a certified Salesforce Administrator
+I have over 15 years of IT experience in Software Testing, with extensive expertise in Manual, UAT, and Automation Testing of web applications, QA processes, and defect lifecycle management. I quickly adapt to project needs, learning new tools and technologies on the job, and can acquire new skills within short timeframes. I am highly flexible, able to adapt to rapidly changing work practices, while building and maintaining excellent working relationships with colleagues and stakeholders.
+
+Skilled in both Agile and Waterfall methodologies, I bring proven experience in team leadership and stakeholder communication. I am also a certified Salesforce Administrator and committed to continuous learning.
 
 ## About Me
 - 💻 QA Engineer with strong expertise in **Manual & Automation Testing, QA processes and defect life managemen**
